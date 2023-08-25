@@ -1,0 +1,37 @@
+.content-body {
+    text-align: center;
+    color: #2c52a3;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+nav {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: #2c52a3;
+}
+
+a.active {
+    font-size: xx-large;
+    font-weight: 900;
+    color: #2eaa2e;
+}
